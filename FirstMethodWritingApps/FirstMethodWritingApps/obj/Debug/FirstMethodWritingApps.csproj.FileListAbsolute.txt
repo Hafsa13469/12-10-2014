@@ -1,0 +1,6 @@
+D:\FTFL\FirstMethodWritingApps\FirstMethodWritingApps\bin\Debug\FirstMethodWritingApps.exe.config
+D:\FTFL\FirstMethodWritingApps\FirstMethodWritingApps\bin\Debug\FirstMethodWritingApps.exe
+D:\FTFL\FirstMethodWritingApps\FirstMethodWritingApps\bin\Debug\FirstMethodWritingApps.pdb
+D:\FTFL\FirstMethodWritingApps\FirstMethodWritingApps\obj\Debug\FirstMethodWritingApps.csprojResolveAssemblyReference.cache
+D:\FTFL\FirstMethodWritingApps\FirstMethodWritingApps\obj\Debug\FirstMethodWritingApps.exe
+D:\FTFL\FirstMethodWritingApps\FirstMethodWritingApps\obj\Debug\FirstMethodWritingApps.pdb

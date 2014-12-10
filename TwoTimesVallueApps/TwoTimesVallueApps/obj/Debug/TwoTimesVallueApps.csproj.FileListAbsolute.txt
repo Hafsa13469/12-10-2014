@@ -1,0 +1,9 @@
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\bin\Debug\TwoTimesVallueApps.exe.config
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\obj\Debug\TwoTimesVallueApps.csprojResolveAssemblyReference.cache
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\obj\Debug\TwoTimesVallueApps.Form1.resources
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\obj\Debug\TwoTimesVallueApps.Properties.Resources.resources
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\obj\Debug\TwoTimesVallueApps.csproj.GenerateResource.Cache
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\bin\Debug\TwoTimesVallueApps.exe
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\bin\Debug\TwoTimesVallueApps.pdb
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\obj\Debug\TwoTimesVallueApps.exe
+D:\FTFL\TwoTimesVallueApps\TwoTimesVallueApps\obj\Debug\TwoTimesVallueApps.pdb
